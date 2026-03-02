@@ -58,8 +58,10 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Small Supermarkets** are the leading format across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket formats, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
+---
 
 ### Category Performance Analysis
+**Not a Quality Problem — A Demand & Visibility Gap**
 * Although the platform benchmark stands at 533 orders, more than half of the categories fall below it despite maintaining strong ratings (3.9–4.0). This clearly indicates that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity within the quick-commerce model.
 
 * This becomes more evident in essential categories like Bread, Breakfast, and Starchy Foods, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores, pointing to a competitive positioning challenge rather than a satisfaction issue.
@@ -68,28 +70,27 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
   
 <img src="https://i.postimg.cc/sg6f9PDc/Picture1.png" alt="Category wise orders">
 
+**Top 4 Categories are receiving 50% of the Item Visibility on the Platform**
 
+* The top four categories — Fruits & Vegetables, Snack Foods, Household, and Frozen Items — receive 50% of total screen visibility, directly contributing to 50% of platform orders, indicating strong alignment between visibility and natural demand.
 
+* However, visibility efficiency is uneven. Categories like Health & Hygiene exhibit higher conversion rates despite lower exposure, suggesting they are under-leveraged and could drive incremental growth if allocated greater digital shelf space.
 
-
-
-
-### Product Preference (Quality Lens)
-
-#### 📰 News Flash: Low-Fat Products Dominate Across All Tiers
-
-Low-fat items generate **65% of total orders** across Tier 1, 2, and 3 cities.
-
-**So What?**
-
-This validates FirstClub’s quality-first positioning.  
-Healthy alternatives are not niche — they represent mainstream demand.
-
-Strategic Implication: Expansion should strengthen healthy assortments.
+<img src="https://i.postimg.cc/pXy2ZGyf/Picture2.png" alt="Item Visibility">
 
 ---
 
-### Tier-wise Clubhouse Performance
+### Product Preference 
+**Low-Fat Products Dominate Across All Tiers**
+
+* Low-fat items account for 65% of total orders across Tier 1, 2, and 3 cities, demonstrating consistent demand irrespective of geography. This strongly validates FirstClub’s quality-first positioning, confirming that healthier alternatives are not niche offerings but mainstream choices.
+* The trend reflects a clear and widespread shift toward healthier consumption patterns, reinforcing that quality-driven curation aligns closely with customer preferences across markets.
+
+<img src="https://i.postimg.cc/HW6Sm3zv/Picture3.png" alt="Fat Content">
+
+---
+
+### Clubhouse Performance Analysis
 
 #### 📰 News Flash: Grocery Clubhouses Thrive in Tier 1 but Struggle in Smaller Cities
 
