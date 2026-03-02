@@ -44,28 +44,11 @@ For the **Marketing Team**, the analysis reframes screen visibility as **digital
 
 ## Executive Summary
 
-### 🎯 North Star Metric: **Orders (Not Visibility)**
+Out of 16 product categories, only 7 categories exceed the platform’s **average order benchmark of 533 orders.** Among these, the top four categories — **Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — account for **50% of total screen visibility** and contribute approximately **50% of total platform orders**.
 
-The analysis determined that **Orders** is a stronger performance indicator than item visibility.
+Low-fat products contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
 
-- Visibility = Exposure  
-- Orders = Real Demand  
-- In quick commerce, screen space is digital shelf space  
-- Non-converting products waste premium placement  
-
----
-
-### 🔎 Critical Findings
-
-**1. 65% of total orders come from Low-Fat products.**  
-Healthy alternatives dominate demand across all tiers.
-
-**2. Grocery-type clubhouses perform strongly in Tier 1 cities but underperform in Tier 2 and Tier 3.**
-
-**3. Small & Medium Supermarkets succeed in Tier 1 & Tier 2.**  
-However, High Supermarkets perform better in Tier 3 cities due to aspirational buying behavior.
-
----
+**Small Supermarkets** are the leading format across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket formats, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
 ## Data Structure
 
