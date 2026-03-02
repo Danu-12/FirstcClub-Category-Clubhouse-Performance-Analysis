@@ -92,54 +92,16 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ### Clubhouse Performance Analysis
 
-#### 📰 News Flash: Grocery Clubhouses Thrive in Tier 1 but Struggle in Smaller Cities
+**Smaller Formats Win in Frequency Markets, Larger in Aspirational Markets**
 
-Grocery-type formats perform strongly in Tier 1 cities but underperform in Tier 2 and Tier 3.
+* Small Supermarket Type 1 clubhouses consistently outperform larger formats across all tiers, with particularly strong traction in Tier 2 (1,624 orders). This indicates that compact, curated assortments are more effective than capital-intensive large formats. Efficiency, not scale, is driving order volume.
 
-**So What?**
+* High and medium supermarket formats perform better in Tier 3 cities, catering to aspirational top-income segments with higher order values but lower frequency. In contrast, Tier 1 markets favor smaller formats that support higher order frequency and faster logistics.
 
-Tier 1 customers:
-- Prefer organic and curated grocery formats
-- Value premium positioning
-- Demonstrate higher purchasing power
+* Small Grocery Store clubhouses perform significantly better in Tier 1 than in Tier 3. Urban consumers in Tier 1 prefer fresh, organic, and quality-assured groceries over local vendors, highlighting expansion potential for premium grocery formats in metropolitan markets.
 
-Tier 2 & 3 customers:
-- Exhibit different purchase drivers
-- Respond better to alternative formats
+<img src="https://i.postimg.cc/bvssWy6Q/Picture4.png" alt="Clubhouse perfo.">
 
-Expansion must be tier-sensitive, not uniform.
-
----
-
-### Format & Size Optimization
-
-#### 📰 News Flash: Small & Medium Supermarkets Win in Tier 1 & Tier 2
-
-Small and Medium formats show strong order volumes in Tier 1 and Tier 2 cities.
-
-**So What?**
-
-These formats:
-- Balance operational efficiency
-- Avoid overcapacity risk
-- Offer curated assortment depth
-
-They should be prioritized in metro and semi-metro expansion.
-
----
-
-#### 📰 News Flash: Tier 3 Cities Prefer High Supermarkets
-
-High Supermarkets outperform smaller formats in Tier 3 cities.
-
-**So What?**
-
-Tier 3 consumers display aspirational buying behavior:
-- Larger formats signal status and variety
-- Broader assortment increases trust perception
-
-Strategic Implication:  
-Deploy High Supermarkets selectively in Tier 3 markets.
 
 ---
 
