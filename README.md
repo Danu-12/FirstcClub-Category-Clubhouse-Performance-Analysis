@@ -51,24 +51,11 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 **Small Supermarkets** are the leading format across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket formats, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
 ## Data Structure
-
-The analysis was structured around the following business dimensions:
-
-- Clubhouse Location (Tier 1, 2, 3)
-- Clubhouse Type
-- Clubhouse Size
-- Category
-- Fat Content
-- Clubhouse ID
-
-These dimensions help answer two strategic questions:
-
-1. Where should we expand?
-2. What format and product mix should we deploy?
-
-Business Flow Framework:
-
-Tier → Clubhouse Format → Category Mix → Orders → Revenue Impact
+<p align="center">
+  <img src="https://i.postimg.cc/MGkRn145/Item-Structure.png" width="30%"  />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="20%"  />
+</p>
 
 ---
 
