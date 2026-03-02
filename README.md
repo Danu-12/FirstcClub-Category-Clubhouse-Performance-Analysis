@@ -41,6 +41,14 @@ For the **Business Development Team**, the project provides data-backed guidance
 For the **Marketing Team**, the analysis reframes screen visibility as **digital real estate**—the equivalent of shelf space in physical retail. In quick commerce, screen space represents direct revenue opportunity. Products with high visibility but low conversion effectively waste valuable placement. By shifting focus toward conversion-driven visibility allocation, marketing efforts can maximize both engagement and order contribution.
 
 ---
+## Data Structure
+<p align="center">
+  <img src="https://i.postimg.cc/MGkRn145/Item-Structure.png" width="30%"  />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="10%"  />
+</p>
+
+---
 
 ## Executive Summary
 
@@ -50,18 +58,21 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Small Supermarkets** are the leading format across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket formats, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
-## Data Structure
-<p align="center">
-  <img src="https://i.postimg.cc/MGkRn145/Item-Structure.png" width="30%"  />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="20%"  />
-</p>
 
----
+### Category Performance Analysis
+* Although the platform benchmark stands at 533 orders, more than half of the categories fall below it despite maintaining strong ratings (3.9–4.0). This clearly indicates that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity within the quick-commerce model.
 
-## Insights Deep Dive
+* This becomes more evident in essential categories like Bread, Breakfast, and Starchy Foods, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores, pointing to a competitive positioning challenge rather than a satisfaction issue.
 
----
+* Premium categories such as Seafood and Meat show a different dynamic: both maintain strong ratings but record lower order volumes due to their consumption patterns. Seafood caters to a small, highly satisfied niche segment, while Meat has broader appeal yet remains occasional in nature.
+  
+<img src="https://i.postimg.cc/sg6f9PDc/Picture1.png" alt="Category wise orders">
+
+
+
+
+
+
 
 ### Product Preference (Quality Lens)
 
