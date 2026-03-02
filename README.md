@@ -32,29 +32,13 @@ As the company expands, optimizing product categories and clubhouse formats beco
 
 ## Project Overview
 
-### Business Context
+This project supports FirstClub’s growth strategy by optimizing category curation, expansion planning, and digital shelf utilization through performance-driven insights.
 
-As expansion accelerated, leadership needed clarity on:
+For the **Category Manager**, the analysis identifies high- and low-performing categories using two critical quality-focused metrics: **Ratings and Orders**, these metrics reveal which categories genuinely resonate with customers, which dilute performance despite visibility.
 
-- Which categories align best with our quality positioning?
-- Which clubhouse formats work best in each tier?
-- Are we utilizing digital shelf space efficiently?
-- How should we prioritize expansion across locations?
+For the **Business Development Team**, the project provides data-backed guidance on selecting the most favorable city tiers **(Tier 1, 2, 3), optimal clubhouse size, and appropriate clubhouse type**. This ensures that new clubhouses are launched in locations where demand patterns, format preference, and performance potential are aligned—reducing expansion risk and improving capital efficiency.
 
-### Stakeholders
-
-- Category Manager (Primary Reporting)
-- Marketing Team
-- Operations Team
-- Business Development Team
-
-### Core Objective
-
-To optimize category selection and clubhouse formats so that:
-
-- High-performing, quality-aligned products are prioritized  
-- Tier-wise expansion decisions are data-backed  
-- Digital shelf space is allocated efficiently  
+For the **Marketing Team**, the analysis reframes screen visibility as **digital real estate**—the equivalent of shelf space in physical retail. In quick commerce, screen space represents direct revenue opportunity. Products with high visibility but low conversion effectively waste valuable placement. By shifting focus toward conversion-driven visibility allocation, marketing efforts can maximize both engagement and order contribution.
 
 ---
 
