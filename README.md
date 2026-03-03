@@ -139,9 +139,9 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ### 📦 For Business Development Team
 
-- Prioritize **Small & Medium Supermarkets in Tier 1 & Tier 2**
-- Avoid over-expansion into large formats where operational load increases
-- In Tier 3, deploy High Supermarkets strategically to meet aspirational demand
+* Expand the share of low-fat and healthier alternatives across categories, with a sharper focus on underperforming categories such as Breads, Starchy Foods, and Snacks Foodsto better align with established consumer demand trends.
+
+* Excluding naturally  high-fat categories like Dairy, increase the proportion of low-fat SKUs (target ~80%) within relevant categories such as Snacks Foods, Breakfast and provide stronger visibility to these options. This approach can drive incremental demand, improve category performance, and further strengthen the platform’s quality-first positioning.
 
 Adopt a **Tier-Format Alignment Matrix** instead of uniform rollout.
 
