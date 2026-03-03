@@ -170,16 +170,33 @@ Initially, the business logic followed  assumption:
 
    However, after exploring  Deeper and category-level testing, visibility did not consistently correlate with higher orders or stronger ratings. Several high-visibility categories failed to generate proportional demand or customer satisfaction, indicating that visibility alone does not guarantee trust or sales.
    
-   As a result, the business logic was refined. Orders and ratings were given greater weight as they better reflect conversion efficiency and customer validation. Visibility is now treated as an enabling metric, while orders and ratings serve as performance confirmation metrics
+   As a result, the business logic was refined. Orders and ratings were given greater weight as they better reflect conversion efficiency and customer validation. Visibility is now treated as an enabling metric, while orders and ratings serve as performance confirmation metrics.
 
+  ---
 
+**Rating as a Quality Proxy**
+
+* Ratings were initially treated as a proxy for customer satisfaction and platform quality, with a benchmark set at or above the platform average of 3.97. The assumption was that higher ratings reflect strong product quality and service experience, aligning with FirstClub’s premium and curated positioning.
+
+   However, ratings can be biased due to low review volumes, extreme feedback behavior, or category-specific tendencies. More importantly, ratings capture satisfaction at a specific point in time and do not indicate repeat purchase or sustained trust.
+
+   Therefore, order count was evaluated alongside ratings, as it better reflects actual customer behavior and ongoing validation of product quality.
+
+  --- 
+
+**Orders as a Trust and Validation Metric**
+
+* During deeper analysis, total orders emerged as a stronger validation metric than visibility for a quality-focused platform. The underlying assumption is that higher orders signal repeat purchase behavior and customer trust, and that orders better reflect true conversion efficiency of digital shelf space.
+  
+   However, this logic has limitations. Certain categories naturally generate higher purchase frequency (e.g., snacks) compared to occasional categories (e.g., seafood), which may distort comparisons. Furthermore, total orders do not distinguish between new and repeat customers, making it difficult to conclusively interpret them as a measure of loyalty without additional customer-level data.
 ---
 
 ## Tools Used
 
-- Microsoft Excel – Structured data analysis  
-- Tableau – Performance dashboards and tier comparisons  
-- Google Slides – Executive stakeholder presentation  
+- Microsoft Excel – Structured data analysis and simplifying the Visualization
+- Tableau – for visualization
+- Google Slides – Executive stakeholder presentation
+- Google Gemini & Chatgpt - for understanding business logic deeply and structuring the documentation  
 
 ---
 
