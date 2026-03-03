@@ -154,6 +154,9 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 ---
 ### For  Platform Feature
 
+* Introduce a Weekly Breakfast suggestion within the app that offers pre-curated, rotating combinations of fruits + breakfast options + milk, with auto-generated carts that automatically meet the minimum AOV threshold. The suggestions should be prominently visible during late-night and early-morning browsing hours, with an option for users to schedule delivery in preferred morning slots.
+
+   This feature shifts breakfast purchases from occasional, reactive buying to habitual, scheduled consumption — converting passive visibility into predictable, recurring demand.
 
 ## Caveats & Assumptions
 
