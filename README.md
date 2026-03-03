@@ -123,13 +123,12 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ---
 
-### 🛒 For Category Manager
+### For Category Optimization
+**Increase Visibility and Bundle to Drive Category Growth**
 
-- Target **80% of total orders from Low-Fat / Quality-focused items**
-- Gradually phase out low-performing categories such as:
-  - Hard Drinks  
-  - Low-quality Breakfast items  
-- Increase depth in healthy, high-frequency essentials  
+* Launch a “Healthy Morning Breakfast” campaign (7:00–10:00 AM) by boosting visibility for Breakfast, Bread, and Dairy, using smart add-on suggestions for users below minimum AOV, and cross-promoting with high-traffic categories like Fruits & Vegetables to increase conversions and basket value.
+
+   Simultaneously, introduce curated morning bundles such as Fresh Fruits + Nutrient-Rich Breakfast Bowl + Pure Milk to align with natural consumption habits. This enhances convenience and perceived health value while increasing basket size and AOV, helping these categories cross the average order benchmark.
 
 ---
 
