@@ -4,17 +4,19 @@
 
 ## Table of Contents
 
-1. [Company Overview](#company-overview)  
-2. [Project Overview](#project-overview)  
-3. [Executive Summary](#executive-summary)  
-4. [Data Structure](#data-structure)  
-5. [Insights Deep Dive](#insights-deep-dive)  
-   - [Product Preference (Quality Lens)](#product-preference-quality-lens)  
-   - [Tier-wise Clubhouse Performance](#tier-wise-clubhouse-performance)  
-   - [Format & Size Optimization](#format--size-optimization)  
-6. [Strategic Recommendations](#strategic-recommendations)  
-7. [Caveats & Assumptions](#caveats--assumptions)  
-8. [Tools Used](#tools-used)  
+1. [Company Overview](#company-overview)
+2. [Project Overview](#project-overview)
+3. [Data Structure](#data-structure)
+4. [Executive Summary](#executive-summary)
+5. [Category Performance Analysis](#category-performance-analysis)
+6. [Clubhouse Performance Analysis](#clubhouse-performance-analysis)
+7. [Strategic Recommendations](#strategic-recommendations)
+   - [Category Optimization](#category-optimization)
+   - [Product Selection Strategy](#product-selection-strategy)
+   - [Clubhouse Expansion Strategy](#clubhouse-expansion-strategy)
+   - [Platform Feature Enhancements](#platform-feature-enhancements)
+8. [Caveats & Assumptions](#caveats--assumptions)
+9. [Tools Used](#tools-used)  
 
 ---
 
@@ -47,6 +49,14 @@ For the **Marketing Team**, the analysis reframes screen visibility as **digital
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="20%"  />
 </p>
+
+**The North Star Metrics**
+
+(Defined Based on Dataset & Business Context)
+
+* **Ratings –** Represent customer satisfaction and perceived product/service quality. This metric reflects how well a category aligns with FirstClub’s premium and curated positioning.
+
+* **Order Count –** Serves as a behavioral validation metric, indicating customer demand, repeat purchase patterns, and trust in the category
 
 ---
 
@@ -123,7 +133,7 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ---
 
-### For Category Optimization
+### Category Optimization
 **Increase Visibility and Bundle to Drive Category Growth**
 
 * Launch a “Healthy Morning Breakfast” campaign (7:00–10:00 AM) by boosting visibility for Breakfast, Bread, and Dairy, using smart add-on suggestions for users below minimum AOV, and cross-promoting with high-traffic categories like Fruits & Vegetables to increase conversions and basket value.
@@ -137,14 +147,14 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ---
 
-### For Product Selection
+### Product Selection Strategy
 * Expand the share of low-fat and healthier alternatives across categories, with a sharper focus on underperforming categories such as Breads, Starchy Foods, and Snacks Foodsto better align with established consumer demand trends.
 
 * Excluding naturally  high-fat categories like Dairy, increase the proportion of low-fat SKUs (target ~80%) within relevant categories such as Snacks Foods, Breakfast and provide stronger visibility to these options. This approach can drive incremental demand, improve category performance, and further strengthen the platform’s quality-first positioning.
 
 ---
 
-### For Clubhouse Expansion
+### Clubhouse Expansion Strategy
 
 **Format Allocation for Maximum Market Fit**
 
@@ -152,19 +162,25 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 * Prioritize Small Grocery-type clubhouses in Tier 1, where demand for fresh, organic, and high-quality products is stronger and less price-sensitive, which aligns well with curated assortments and quality-focused positioning.
 ---
-### For  Platform Feature
+### Platform Feature Enhancements
 
 * Introduce a Weekly Breakfast suggestion within the app that offers pre-curated, rotating combinations of fruits + breakfast options + milk, with auto-generated carts that automatically meet the minimum AOV threshold. The suggestions should be prominently visible during late-night and early-morning browsing hours, with an option for users to schedule delivery in preferred morning slots.
 
    This feature shifts breakfast purchases from occasional, reactive buying to habitual, scheduled consumption — converting passive visibility into predictable, recurring demand.
 
+---
+
 ## Caveats & Assumptions
 
+This section outlines the key business logic and assumptions adopted during the analysis, explains the rationale behind them, and highlights which assumptions were validated or refined based on learning and testing.
+
+---
+
 **Visibility as Initial Hypothesis (Refined After Testing)**
-
-Initially, the business logic followed  assumption:
-
-**Higher visibility → Higher sales → Faster inventory turnover**
+   
+      Initially, the business logic followed  assumption:
+      
+      Higher visibility → Higher sales → Faster inventory turnover
 
 * This logic was considered especially important for a quick commerce platform, where faster inventory movement reduces perishability risk and improves working capital efficiency. It assumed that the visibility metric accurately reflects digital shelf placement (top scroll, search ranking, banners) and that visibility translates into purchase intent.
 
