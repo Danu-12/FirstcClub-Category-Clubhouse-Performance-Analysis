@@ -43,9 +43,9 @@ For the **Marketing Team**, the analysis reframes screen visibility as **digital
 ---
 ## Data Structure
 <p align="center">
-  <img src="https://i.postimg.cc/MGkRn145/Item-Structure.png" width="30%"  />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="10%"  />
+  <img src="https://i.postimg.cc/MGkRn145/Item-Structure.png" width="37%"  />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/mkVNMhMg/Clubhouse-structure.png width="20%"  />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 * Low-fat items account for 65% of total orders across Tier 1, 2, and 3 cities, demonstrating consistent demand irrespective of geography. This strongly validates FirstClub’s quality-first positioning, confirming that healthier alternatives are not niche offerings but mainstream choices.
 * The trend reflects a clear and widespread shift toward healthier consumption patterns, reinforcing that quality-driven curation aligns closely with customer preferences across markets.
 
-<img src="https://i.postimg.cc/HW6Sm3zv/Picture3.png" alt="Fat Content">
+<img src="https://i.postimg.cc/W3PGXBsN/Picture3.png" alt="Fat Content">
 
 ---
 
