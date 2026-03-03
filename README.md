@@ -160,10 +160,17 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ## Caveats & Assumptions
 
-- Analysis is based on historical performance.
-- Tier segmentation reflects current market classification.
-- Aspirational behavior in Tier 3 inferred from purchasing patterns.
-- Orders chosen as North Star metric after validating that visibility does not reflect purchase intent.
+**Visibility as Initial Hypothesis (Refined After Testing)**
+
+Initially, the business logic followed  assumption:
+
+**Higher visibility → Higher sales → Faster inventory turnover**
+
+* This logic was considered especially important for a quick commerce platform, where faster inventory movement reduces perishability risk and improves working capital efficiency. It assumed that the visibility metric accurately reflects digital shelf placement (top scroll, search ranking, banners) and that visibility translates into purchase intent.
+
+   However, after exploring  Deeper and category-level testing, visibility did not consistently correlate with higher orders or stronger ratings. Several high-visibility categories failed to generate proportional demand or customer satisfaction, indicating that visibility alone does not guarantee trust or sales.
+   
+   As a result, the business logic was refined. Orders and ratings were given greater weight as they better reflect conversion efficiency and customer validation. Visibility is now treated as an enabling metric, while orders and ratings serve as performance confirmation metrics
 
 
 ---
