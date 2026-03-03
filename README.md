@@ -102,6 +102,20 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 <img src="https://i.postimg.cc/bvssWy6Q/Picture4.png" alt="Clubhouse perfo.">
 
+**Underperforming Clubhouses Despite Strong Customer Satisfaction**
+* Despite maintaining high customer ratings, Clubhouses **OUT010 and OUT019** are underperforming relative to other formats. Notably,**OUT019** records order volumes **below the platform benchmark of 533 orders**.
+*  This indicates that performance gaps are not driven by product quality or customer satisfaction, but likely by structural factors such as location dynamics, assortment mix, clubhouse format or demand density
+
+<img src="https://i.postimg.cc/9FQ4m8DF/Picture5.png" alt="underperforming Clubhouses ">
+
+**Format, Not Ratings, Explains Worst Clubhouse Performance**
+
+* A deeper analysis of the worst-performing clubhouses (OUT010 and OUT019) reveals that both belong to the Grocery format and underperform compared to Supermarket clubhouses. 
+* While OUT019 does not cross the platform’s average order benchmark of 533, it demonstrates stronger operational efficiency — generating 528 orders from a single store versus OUT010’s 555 orders spread across three stores.
+
+* Performance also varies by tier. Grocery formats perform relatively better in Tier 1 compared to Tier 3. Tier 1 consumers prioritize freshness, organic sourcing, and trusted quality over price sensitivity, creating a stronger fit for curated grocery formats. In contrast, Tier 3 markets are more price-driven, limiting the competitive advantage of premium grocery positioning.
+
+<img src="https://i.postimg.cc/GhDphWbS/6.png" alt="drilldown underperforming Clubhouses ">
 
 ---
 
