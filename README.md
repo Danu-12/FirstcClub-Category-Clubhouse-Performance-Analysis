@@ -130,6 +130,11 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
    Simultaneously, introduce curated morning bundles such as Fresh Fruits + Nutrient-Rich Breakfast Bowl + Pure Milk to align with natural consumption habits. This enhances convenience and perceived health value while increasing basket size and AOV, helping these categories cross the average order benchmark.
 
+**Dynamic Visibility for Category Growth**
+* Prioritize greater screen allocation to high-conversion categories like *Health & Hygiene* which deliver strong conversion efficiency despite lower exposure, leveraging rising consumer preference for trusted, quality-assured products to expand their digital shelf presence and unlock incremental growth without additional acquisition spend.
+
+* Rebalance visibility away from occasional categories like Meat and Seafood by adopting a dynamic visibility allocation model, increasing  visibility  during high-demand periods and reduce exposure during low-consumption phases.
+
 ---
 
 ### 📦 For Business Development Team
