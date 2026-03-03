@@ -137,32 +137,23 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ---
 
-### 📦 For Business Development Team
-
+### For Product Selection
 * Expand the share of low-fat and healthier alternatives across categories, with a sharper focus on underperforming categories such as Breads, Starchy Foods, and Snacks Foodsto better align with established consumer demand trends.
 
 * Excluding naturally  high-fat categories like Dairy, increase the proportion of low-fat SKUs (target ~80%) within relevant categories such as Snacks Foods, Breakfast and provide stronger visibility to these options. This approach can drive incremental demand, improve category performance, and further strengthen the platform’s quality-first positioning.
 
-Adopt a **Tier-Format Alignment Matrix** instead of uniform rollout.
-
 ---
 
-### 📣 For Marketing Team
+### For Clubhouse Expansion
 
-In Tier 1:
-- Position Grocery formats as Organic, Trusted, and Health-Focused
-- Combine Grocery + Dairy to create a holistic health destination
-- Target premium societies and high-income residential clusters
+**Format Allocation for Maximum Market Fit**
 
+* Prioritize Small Supermarket formats in Tier 1 and Tier 2, as they deliver higher efficiency and order frequency compared to larger formats, making them the preferred expansion model, while  focusing on Medium and High supermarket formats (especially Type 3), which better address aspirational demand and support higher basket values.
+
+* Prioritize Small Grocery-type clubhouses in Tier 1, where demand for fresh, organic, and high-quality products is stronger and less price-sensitive, which aligns well with curated assortments and quality-focused positioning.
 ---
+### For  Platform Feature
 
-### ⚙️ For Operations
-
-- Allocate digital shelf space based on **order contribution**, not visibility
-- Remove low-converting SKUs regularly
-- Increase stock depth for high-velocity healthy products
-
----
 
 ## Caveats & Assumptions
 
@@ -171,10 +162,6 @@ In Tier 1:
 - Aspirational behavior in Tier 3 inferred from purchasing patterns.
 - Orders chosen as North Star metric after validating that visibility does not reflect purchase intent.
 
-Key Learning:
-
-High visibility without conversion wastes digital shelf space.  
-Orders reflect true demand and efficient resource allocation.
 
 ---
 
@@ -186,18 +173,3 @@ Orders reflect true demand and efficient resource allocation.
 
 ---
 
-## Closing Note
-
-This project reinforces a core principle:
-
-**In quick commerce, curation beats volume.**
-
-By aligning:
-- Tier strategy  
-- Clubhouse format  
-- Category mix  
-- Quality positioning  
-
-FirstClub can scale sustainably while protecting its brand promise:
-
-**Healthy. Trusted. High-Quality Commerce.**
