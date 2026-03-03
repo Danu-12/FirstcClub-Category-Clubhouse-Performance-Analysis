@@ -1,6 +1,6 @@
 
 
-# FirstClub | Category & Clubhouse Expansion and Optimization Strategy
+# FirstClub | Category & Clubhouse Optimization Strategy
 
 ## Table of Contents
 
