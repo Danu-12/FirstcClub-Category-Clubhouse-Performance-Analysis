@@ -1,6 +1,6 @@
 
 
-# FirstClub | Category & Clubhouse Optimization Strategy
+# FirstClub | Category & Clubhouse Performance Analysis
 
 ## Table of Contents
 
