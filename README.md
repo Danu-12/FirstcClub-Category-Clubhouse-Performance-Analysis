@@ -40,7 +40,7 @@ For the **Category Manager**, the analysis identifies high- and low-performing c
 
 For the **Business Development Team**, the project provides data-backed guidance on selecting the most favorable city tiers **(Tier 1, 2, 3), optimal clubhouse size, and appropriate clubhouse type**. This ensures that new clubhouses are launched in locations where demand patterns, type preference, and performance potential are aligned—reducing expansion risk and improving capital efficiency.
 
-For the **Marketing Team**, the analysis reframes screen visibility as **digital real estate**—the equivalent of shelf space in physical retail. In quick commerce, screen space represents direct revenue opportunity. Products with high visibility but low conversion effectively waste valuable placement. By shifting focus toward conversion-driven visibility allocation, marketing efforts can maximize both engagement and order contribution.
+For the **Marketing Team**, the analysis reframes screen visibility as **digital real estate**—the equivalent of shelf space in physical retail. By shifting focus toward conversion-driven visibility allocation, marketing efforts can maximize both engagement and order contribution.
 
 ---
 ## Data Structure
@@ -64,7 +64,7 @@ For the **Marketing Team**, the analysis reframes screen visibility as **digital
 
 Out of 16 product categories, only 7 categories exceed the platform’s **average order benchmark of 533 orders.** Among these, the top four categories — **Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — account for **50% of total screen visibility** and contribute approximately **50% of total platform orders**.
 
-Low-fat products contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
+**Low-fat products **contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
 
 **Small Supermarkets** are the leading type across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket types, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
@@ -72,17 +72,17 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 ### Category Performance Analysis
 **Not a Quality Problem — A Demand & Visibility Gap**
-* Although the platform benchmark stands at 533 orders, more than half of the categories fall below it despite maintaining strong ratings (3.9–4.0). This clearly indicates that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity within the quick-commerce model.
+* Although the platform benchmark stands at **533 orders**, more than half of the categories fall below it despite maintaining **strong ratings (3.9–4.0)**. This clearly indicates that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity within the quick-commerce model.
 
-* This becomes more evident in essential categories like Bread, Breakfast, and Starchy Foods, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores, pointing to a competitive positioning challenge rather than a satisfaction issue.
+* This becomes more evident in **essential categories like Bread, Breakfast, and Starchy Foods**, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores, pointing to a competitive positioning challenge rather than a satisfaction issue.
 
-* Premium categories such as Seafood and Meat show a different dynamic: both maintain strong ratings but record lower order volumes due to their consumption patterns. Seafood caters to a small, highly satisfied niche segment, while Meat has broader appeal yet remains occasional in nature.
+* **Premium categories** such as Seafood and Meat show a different dynamic: both maintain strong ratings but record lower order volumes due to their consumption patterns. Seafood caters to a small, highly satisfied niche segment, while Meat has broader appeal yet remains occasional in nature.
   
 <img src="https://i.postimg.cc/sg6f9PDc/Picture1.png" alt="Category wise orders">
 
 **Top 4 Categories are receiving 50% of the Item Visibility on the Platform**
 
-* The top four categories — Fruits & Vegetables, Snack Foods, Household, and Frozen Items — receive 50% of total screen visibility, directly contributing to 50% of platform orders, indicating strong alignment between visibility and natural demand.
+* The **top four categories — Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — receive **50% of total screen visibility**, directly contributing to** 50% of platform orders**, indicating strong alignment between visibility and natural demand.
 
 * However, visibility efficiency is uneven. Categories like Health & Hygiene exhibit higher conversion rates despite lower exposure, suggesting they are under-leveraged and could drive incremental growth if allocated greater digital shelf space.
 
@@ -93,7 +93,7 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 ### Product Preference 
 **Low-Fat Products Dominate Across All Tiers**
 
-* Low-fat items account for 65% of total orders across Tier 1, 2, and 3 cities, demonstrating consistent demand irrespective of geography. This strongly validates FirstClub’s quality-first positioning, confirming that healthier alternatives are not niche offerings but mainstream choices.
+* Low-fat items account for **65% of total orders** across all tiers, demonstrating consistent demand irrespective of geography. This strongly validates FirstClub’s quality-first positioning, confirming that healthier alternatives are not niche offerings but mainstream choices.
 * The trend reflects a clear and widespread shift toward healthier consumption patterns, reinforcing that quality-driven curation aligns closely with customer preferences across markets.
 
 <img src="https://i.postimg.cc/W3PGXBsN/Picture3.png" alt="Fat Content">
@@ -104,11 +104,11 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Smaller Formats Win in Frequency Markets, Larger in Aspirational Markets**
 
-* Small Supermarket Type 1 clubhouses consistently outperform larger types across all tiers, with particularly strong traction in Tier 2 (1,624 orders). This indicates that compact, curated assortments are more effective than capital-intensive large types. Efficiency, not scale, is driving order volume.
+* **Small Supermarket Type 1 clubhouses** consistently outperform larger types across all tiers, with particularly strong traction in Tier 2 (1,624 orders). This indicates that compact, curated assortments are more effective than capital-intensive large types. Efficiency, not scale, is driving order volume.
 
-* High and medium supermarket types perform better in Tier 3 cities, catering to aspirational top-income segments with higher order values but lower frequency. In contrast, Tier 1 markets favor smaller types that support higher order frequency and faster logistics.
+* **High and medium supermarket types perform better in Tier 3 cities**, catering to aspirational top-income segments with higher order values but lower frequency. In contrast, Tier 1 markets favor smaller types that support higher order frequency and faster logistics.
 
-* Small Grocery Store clubhouses perform significantly better in Tier 1 than in Tier 3. Urban consumers in Tier 1 prefer fresh, organic, and quality-assured groceries over local vendors, highlighting expansion potential for premium grocery types in metropolitan markets.
+* **Small Grocery Store clubhouses** perform significantly **better in Tier 1** than in Tier 3. Urban consumers in Tier 1 prefer fresh, organic, and quality-assured groceries over local vendors, highlighting expansion potential for premium grocery types in metropolitan markets.
 
 <img src="https://i.postimg.cc/bvssWy6Q/Picture4.png" alt="Clubhouse perfo.">
 
@@ -120,8 +120,8 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **type, Not Ratings, Explains Worst Clubhouse Performance**
 
-* A deeper analysis of the worst-performing clubhouses (OUT010 and OUT019) reveals that both belong to the Grocery type and underperform compared to Supermarket clubhouses. 
-* While OUT019 does not cross the platform’s average order benchmark of 533, it demonstrates stronger operational efficiency — generating 528 orders from a single store versus OUT010’s 555 orders spread across three stores.
+* A deeper analysis of the **worst-performing clubhouses (OUT010 and OUT019)** reveals that both belong to the Grocery type and underperform compared to Supermarket clubhouses. 
+* While **OUT01**9 does not cross the platform’s average order benchmark of 533, it demonstrates stronger operational efficiency — generating **528 orders from a single store** versus OUT010’s 555 orders spread across three stores.
 
 * Performance also varies by tier. Grocery types perform relatively better in Tier 1 compared to Tier 3. Tier 1 consumers prioritize freshness, organic sourcing, and trusted quality over price sensitivity, creating a stronger fit for curated grocery types. In contrast, Tier 3 markets are more price-driven, limiting the competitive advantage of premium grocery positioning.
 
@@ -136,21 +136,21 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 ### Category Optimization
 **Increase Visibility and Bundle to Drive Category Growth**
 
-* Launch a “Healthy Morning Breakfast” campaign (7:00–10:00 AM) by boosting visibility for Breakfast, Bread, and Dairy, using smart add-on suggestions for users below minimum AOV, and cross-promoting with high-traffic categories like Fruits & Vegetables to increase conversions and basket value.
+* Launch a **“Healthy Morning Breakfast” campaign (7:00–10:00 AM)** by boosting visibility for **Breakfast, Bread, and Dairy,** using smart add-on suggestions for users below minimum AOV, and cross-promoting with high-traffic categories like Fruits & Vegetables to increase conversions and basket value.
 
-   Simultaneously, introduce curated morning bundles such as Fresh Fruits + Nutrient-Rich Breakfast Bowl + Pure Milk to align with natural consumption habits. This enhances convenience and perceived health value while increasing basket size and AOV, helping these categories cross the average order benchmark.
+   Simultaneously, introduce curated morning bundles such as **Fresh Fruits + Nutrient-Rich Breakfast Bowl + Pure Milk** to align with natural consumption habits. This enhances convenience and perceived health value while increasing basket size and AOV, helping these categories cross the average order benchmark.
 
 **Dynamic Visibility for Category Growth**
 * Prioritize greater screen allocation to high-conversion categories like *Health & Hygiene* which deliver strong conversion efficiency despite lower exposure, leveraging rising consumer preference for trusted, quality-assured products to expand their digital shelf presence and unlock incremental growth without additional acquisition spend.
 
-* Rebalance visibility away from occasional categories like Meat and Seafood by adopting a dynamic visibility allocation model, increasing  visibility  during high-demand periods and reduce exposure during low-consumption phases.
+* Rebalance visibility away from **occasional categories like Meat and Seafood** by adopting a **dynamic visibility allocation model**, increasing  visibility  during high-demand periods and reduce exposure during low-consumption phases.
 
 ---
 
 ### Product Selection Strategy
-* Expand the share of low-fat and healthier alternatives across categories, with a sharper focus on underperforming categories such as Breads, Starchy Foods, and Snacks Foodsto better align with established consumer demand trends.
+* Expand the share of low-fat and healthier alternatives across categories, with a **sharper focus on underperforming categories such as Breads, Starchy Foods** to better align with established consumer demand trends.
 
-* Excluding naturally  high-fat categories like Dairy, increase the proportion of low-fat SKUs (target ~80%) within relevant categories such as Snacks Foods, Breakfast and provide stronger visibility to these options. This approach can drive incremental demand, improve category performance, and further strengthen the platform’s quality-first positioning.
+* Excluding naturally  high-fat categories like Dairy, **increase the proportion of low-fat SKUs (target ~80%)** within **relevant categories such as Snacks Foods, Breakfast** and provide stronger visibility to these options. This approach can drive incremental demand, improve category performance, and further strengthen the platform’s quality-first positioning.
 
 ---
 
@@ -158,13 +158,13 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Format Allocation for Maximum Market Fit**
 
-* Prioritize Small Supermarket types in Tier 1 and Tier 2, as they deliver higher efficiency and order frequency compared to larger types, making them the preferred expansion model, while  focusing on Medium and High supermarket types (especially Type 3), which better address aspirational demand and support higher basket values.
+* **Prioritize Small Supermarket types in Tier 1 and Tier 2**, as they deliver higher efficiency and order frequency compared to larger types, making them the preferred expansion model, while  focusing on Medium and High supermarket types (especially Type 3), which better address aspirational demand and support higher basket values.
 
-* Prioritize Small Grocery-type clubhouses in Tier 1, where demand for fresh, organic, and high-quality products is stronger and less price-sensitive, which aligns well with curated assortments and quality-focused positioning.
+* **Prioritize Small Grocery-type clubhouses in Tier 1**, where demand for fresh, organic, and high-quality products is stronger and less price-sensitive, which aligns well with curated assortments and quality-focused positioning.
 ---
 ### Platform Feature Enhancements
 
-* Introduce a Weekly Breakfast suggestion within the app that offers pre-curated, rotating combinations of fruits + breakfast options + milk, with auto-generated carts that automatically meet the minimum AOV threshold. The suggestions should be prominently visible during late-night and early-morning browsing hours, with an option for users to schedule delivery in preferred morning slots.
+* Introduce a **Weekly Breakfast suggestion** within the app that offers pre-curated, **rotating combinations of fruits + breakfast options + milk**, with auto-generated carts that automatically meet the minimum AOV threshold. The suggestions should be prominently visible during late-night and early-morning browsing hours, with an option for users to schedule delivery in preferred morning slots.
 
    This feature shifts breakfast purchases from occasional, reactive buying to habitual, scheduled consumption — converting passive visibility into predictable, recurring demand.
 
@@ -182,17 +182,17 @@ This section outlines the key business logic and assumptions adopted during the 
       
       Higher visibility → Higher sales → Faster inventory turnover
 
-* This logic was considered especially important for a quick commerce platform, where faster inventory movement reduces perishability risk and improves working capital efficiency. It assumed that the visibility metric accurately reflects digital shelf placement (top scroll, search ranking, banners) and that visibility translates into purchase intent.
+* This logic was considered especially important for a quick commerce platform, where **faster inventory movement reduces perishability risk** and improves working capital efficiency. It assumed that the visibility metric accurately reflects digital shelf placement (top scroll, search ranking, banners) and that visibility translates into purchase intent.
 
-   However, after exploring  Deeper and category-level testing, visibility did not consistently correlate with higher orders or stronger ratings. Several high-visibility categories failed to generate proportional demand or customer satisfaction, indicating that visibility alone does not guarantee trust or sales.
+   However, after exploring  Deeper and category-level testing, **visibility did not consistently correlate with higher orders or stronger ratings**. Several high-visibility categories failed to generate proportional demand or customer satisfaction, indicating that visibility alone does not guarantee trust or sales.
    
-   As a result, the business logic was refined. Orders and ratings were given greater weight as they better reflect conversion efficiency and customer validation. Visibility is now treated as an enabling metric, while orders and ratings serve as performance confirmation metrics.
+   As a result, the business logic was refined. **Orders and ratings were given greater weight** as they better reflect conversion efficiency and customer validation. Visibility is now treated as an enabling metric, while orders and ratings serve as performance confirmation metrics.
 
   ---
 
 **Rating as a Quality Proxy**
 
-* Ratings were initially treated as a proxy for customer satisfaction and platform quality, with a benchmark set at or above the platform average of 3.97. The assumption was that higher ratings reflect strong product quality and service experience, aligning with FirstClub’s premium and curated positioning.
+* Ratings were initially treated as a proxy for customer satisfaction and platform quality, with a **benchmark set at or above the platform average of 3.97**. The assumption was that higher ratings reflect strong product quality and service experience, aligning with FirstClub’s premium and curated positioning.
 
    However, ratings can be biased due to low review volumes, extreme feedback behavior, or category-specific tendencies. More importantly, ratings capture satisfaction at a specific point in time and do not indicate repeat purchase or sustained trust.
 
@@ -209,10 +209,10 @@ This section outlines the key business logic and assumptions adopted during the 
 
 ## Tools Used
 
-- Microsoft Excel – Structured data analysis and simplifying the Visualization
-- Tableau – for visualization
-- Google Slides – Executive stakeholder presentation
-- Google Gemini & Chatgpt - for understanding business logic deeply and structuring the documentation  
+**- Microsoft Excel –** Structured data analysis and simplifying the Visualization
+**- Tableau –** for visualization
+**- Google Slides –** Executive stakeholder presentation
+**- Google Gemini & Chatgpt -** for understanding business logic deeply and structuring the documentation  
 
 ---
 
