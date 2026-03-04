@@ -210,8 +210,11 @@ This section outlines the key business logic and assumptions adopted during the 
 ## Tools Used
 
 **- Microsoft Excel –** Structured data analysis and simplifying the Visualization
+
 **- Tableau –** for visualization
+
 **- Google Slides –** Executive stakeholder presentation
+
 **- Google Gemini & Chatgpt -** for understanding business logic deeply and structuring the documentation  
 
 ---
