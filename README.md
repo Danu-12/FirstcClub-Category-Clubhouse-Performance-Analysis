@@ -1,4 +1,4 @@
-
+<img src="https://i.postimg.cc/NjHchCWx/Gemini-Generated-Image-qsm2i1qsm2i1qsm2.pngg" alt="Banner">
 
 # FirstClub | Category & Clubhouse Optimization Strategy
 
