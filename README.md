@@ -28,7 +28,7 @@ Unlike traditional rapid-delivery platforms that compete on speed and assortment
 - Curating **health-focused, premium-quality products**
 - Targeting customers who value **trust, health, and quality**
 
-As the company expands, optimizing product categories and clubhouse formats becomes essential for sustainable and profitable growth.
+As the company expands, optimizing product categories and clubhouse type becomes essential for sustainable and profitable growth.
 
 ---
 
@@ -38,7 +38,7 @@ This project supports FirstClub’s growth strategy by optimizing category curat
 
 For the **Category Manager**, the analysis identifies high- and low-performing categories using two critical quality-focused metrics: **Ratings and Orders**, these metrics reveal which categories genuinely resonate with customers, which dilute performance despite visibility.
 
-For the **Business Development Team**, the project provides data-backed guidance on selecting the most favorable city tiers **(Tier 1, 2, 3), optimal clubhouse size, and appropriate clubhouse type**. This ensures that new clubhouses are launched in locations where demand patterns, format preference, and performance potential are aligned—reducing expansion risk and improving capital efficiency.
+For the **Business Development Team**, the project provides data-backed guidance on selecting the most favorable city tiers **(Tier 1, 2, 3), optimal clubhouse size, and appropriate clubhouse type**. This ensures that new clubhouses are launched in locations where demand patterns, type preference, and performance potential are aligned—reducing expansion risk and improving capital efficiency.
 
 For the **Marketing Team**, the analysis reframes screen visibility as **digital real estate**—the equivalent of shelf space in physical retail. In quick commerce, screen space represents direct revenue opportunity. Products with high visibility but low conversion effectively waste valuable placement. By shifting focus toward conversion-driven visibility allocation, marketing efforts can maximize both engagement and order contribution.
 
@@ -66,7 +66,7 @@ Out of 16 product categories, only 7 categories exceed the platform’s **averag
 
 Low-fat products contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
 
-**Small Supermarkets** are the leading format across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket formats, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
+**Small Supermarkets** are the leading type across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket types, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
 ---
 
@@ -104,26 +104,26 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Smaller Formats Win in Frequency Markets, Larger in Aspirational Markets**
 
-* Small Supermarket Type 1 clubhouses consistently outperform larger formats across all tiers, with particularly strong traction in Tier 2 (1,624 orders). This indicates that compact, curated assortments are more effective than capital-intensive large formats. Efficiency, not scale, is driving order volume.
+* Small Supermarket Type 1 clubhouses consistently outperform larger types across all tiers, with particularly strong traction in Tier 2 (1,624 orders). This indicates that compact, curated assortments are more effective than capital-intensive large types. Efficiency, not scale, is driving order volume.
 
-* High and medium supermarket formats perform better in Tier 3 cities, catering to aspirational top-income segments with higher order values but lower frequency. In contrast, Tier 1 markets favor smaller formats that support higher order frequency and faster logistics.
+* High and medium supermarket types perform better in Tier 3 cities, catering to aspirational top-income segments with higher order values but lower frequency. In contrast, Tier 1 markets favor smaller types that support higher order frequency and faster logistics.
 
-* Small Grocery Store clubhouses perform significantly better in Tier 1 than in Tier 3. Urban consumers in Tier 1 prefer fresh, organic, and quality-assured groceries over local vendors, highlighting expansion potential for premium grocery formats in metropolitan markets.
+* Small Grocery Store clubhouses perform significantly better in Tier 1 than in Tier 3. Urban consumers in Tier 1 prefer fresh, organic, and quality-assured groceries over local vendors, highlighting expansion potential for premium grocery types in metropolitan markets.
 
 <img src="https://i.postimg.cc/bvssWy6Q/Picture4.png" alt="Clubhouse perfo.">
 
 **Underperforming Clubhouses Despite Strong Customer Satisfaction**
-* Despite maintaining high customer ratings, Clubhouses **OUT010 and OUT019** are underperforming relative to other formats. Notably,**OUT019** records order volumes **below the platform benchmark of 533 orders**.
-*  This indicates that performance gaps are not driven by product quality or customer satisfaction, but likely by structural factors such as location dynamics, assortment mix, clubhouse format or demand density
+* Despite maintaining high customer ratings, Clubhouses **OUT010 and OUT019** are underperforming relative to other types. Notably,**OUT019** records order volumes **below the platform benchmark of 533 orders**.
+*  This indicates that performance gaps are not driven by product quality or customer satisfaction, but likely by structural factors such as location dynamics, assortment mix, clubhouse type or demand density
 
 <img src="https://i.postimg.cc/9FQ4m8DF/Picture5.png" alt="underperforming Clubhouses ">
 
-**Format, Not Ratings, Explains Worst Clubhouse Performance**
+**type, Not Ratings, Explains Worst Clubhouse Performance**
 
-* A deeper analysis of the worst-performing clubhouses (OUT010 and OUT019) reveals that both belong to the Grocery format and underperform compared to Supermarket clubhouses. 
+* A deeper analysis of the worst-performing clubhouses (OUT010 and OUT019) reveals that both belong to the Grocery type and underperform compared to Supermarket clubhouses. 
 * While OUT019 does not cross the platform’s average order benchmark of 533, it demonstrates stronger operational efficiency — generating 528 orders from a single store versus OUT010’s 555 orders spread across three stores.
 
-* Performance also varies by tier. Grocery formats perform relatively better in Tier 1 compared to Tier 3. Tier 1 consumers prioritize freshness, organic sourcing, and trusted quality over price sensitivity, creating a stronger fit for curated grocery formats. In contrast, Tier 3 markets are more price-driven, limiting the competitive advantage of premium grocery positioning.
+* Performance also varies by tier. Grocery types perform relatively better in Tier 1 compared to Tier 3. Tier 1 consumers prioritize freshness, organic sourcing, and trusted quality over price sensitivity, creating a stronger fit for curated grocery types. In contrast, Tier 3 markets are more price-driven, limiting the competitive advantage of premium grocery positioning.
 
 <img src="https://i.postimg.cc/GhDphWbS/6.png" alt="drilldown underperforming Clubhouses ">
 
@@ -158,7 +158,7 @@ Low-fat products contribute **65% of total platform orders** across all tiers.Th
 
 **Format Allocation for Maximum Market Fit**
 
-* Prioritize Small Supermarket formats in Tier 1 and Tier 2, as they deliver higher efficiency and order frequency compared to larger formats, making them the preferred expansion model, while  focusing on Medium and High supermarket formats (especially Type 3), which better address aspirational demand and support higher basket values.
+* Prioritize Small Supermarket types in Tier 1 and Tier 2, as they deliver higher efficiency and order frequency compared to larger types, making them the preferred expansion model, while  focusing on Medium and High supermarket types (especially Type 3), which better address aspirational demand and support higher basket values.
 
 * Prioritize Small Grocery-type clubhouses in Tier 1, where demand for fresh, organic, and high-quality products is stronger and less price-sensitive, which aligns well with curated assortments and quality-focused positioning.
 ---
