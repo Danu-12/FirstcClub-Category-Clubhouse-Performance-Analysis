@@ -64,7 +64,7 @@ For the **Marketing Team**, the analysis reframes screen visibility as **digital
 
 Out of 16 product categories, only 7 categories exceed the platform’s **average order benchmark of 533 orders.** Among these, the top four categories — **Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — account for **50% of total screen visibility** and contribute approximately **50% of total platform orders**.
 
-**Low-fat products **contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
+**Low-fat products** contribute **65% of total platform orders** across all tiers.The demand for healthier alternatives is not confined to metro markets but is visible across Tier 1, Tier 2, and Tier 3 cities.
 
 **Small Supermarkets** are the leading type across all tiers, demonstrating strong and consistent order performance.Grocery-type clubhouses perform relatively better in Tier 1 cities compared to Tier 3; however, when compared directly to supermarket types, grocery clubhouses underperform overall. Notably, two grocery-type clubhouses — **OUT010 and OUT019** — emerge as the weakest-performing location.
 
