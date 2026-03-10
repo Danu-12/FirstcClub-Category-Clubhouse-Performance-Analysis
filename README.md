@@ -72,9 +72,9 @@ Out of 16 product categories, only 7 categories exceed the platform’s **averag
 
 ### Category Performance Analysis
 **Not a Quality Problem — A Demand & Visibility Gap**
-* Although the platform benchmark stands at **533 orders**, more than half of the categories fall below it despite maintaining **strong ratings (3.9–4.0)**. This clearly indicates that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity within the quick-commerce model.
+* Although the platform benchmark stands at **533 orders**, more than half of the categories fall below it despite maintaining **strong ratings (3.9–4.0)** indicating that underperformance is not driven by product quality, but by structural factors such as discoverability and demand intensity.
 
-* This becomes more evident in **essential categories like Bread, Breakfast, and Starchy Foods**, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores, pointing to a competitive positioning challenge rather than a satisfaction issue.
+* This becomes more evident in **essential categories like Bread, Breakfast, and Starchy Foods**, which generate fewer than 300 orders despite being traditionally high-frequency items. The lower performance likely reflects limited digital visibility or consumer preference for purchasing staples from local stores.
 
 * **Premium categories** such as Seafood and Meat show a different dynamic: both maintain strong ratings but record lower order volumes due to their consumption patterns. Seafood caters to a small, highly satisfied niche segment, while Meat has broader appeal yet remains occasional in nature.
   
@@ -82,7 +82,7 @@ Out of 16 product categories, only 7 categories exceed the platform’s **averag
 
 **Top 4 Categories are receiving 50% of the Item Visibility on the Platform**
 
-* The **top four categories — Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — receive **50% of total screen visibility**, directly contributing to** 50% of platform orders**, indicating strong alignment between visibility and natural demand.
+* The **top four categories — Fruits & Vegetables, Snack Foods, Household, and Frozen Items** — receive **50% of total screen visibility**, directly contributing to **50% of platform orders**, indicating strong alignment between visibility and natural demand.
 
 * However, visibility efficiency is uneven. Categories like Health & Hygiene exhibit higher conversion rates despite lower exposure, suggesting they are under-leveraged and could drive incremental growth if allocated greater digital shelf space.
 
@@ -94,7 +94,7 @@ Out of 16 product categories, only 7 categories exceed the platform’s **averag
 **Low-Fat Products Dominate Across All Tiers**
 
 * Low-fat items account for **65% of total orders** across all tiers, demonstrating consistent demand irrespective of geography. This strongly validates FirstClub’s quality-first positioning, confirming that healthier alternatives are not niche offerings but mainstream choices.
-* The trend reflects a clear and widespread shift toward healthier consumption patterns, reinforcing that quality-driven curation aligns closely with customer preferences across markets.
+* The trend reflects a clear and widespread shift toward healthier consumption patterns
 
 <img src="https://i.postimg.cc/W3PGXBsN/Picture3.png" alt="Fat Content">
 
@@ -118,12 +118,10 @@ Out of 16 product categories, only 7 categories exceed the platform’s **averag
 
 <img src="https://i.postimg.cc/9FQ4m8DF/Picture5.png" alt="underperforming Clubhouses ">
 
-**type, Not Ratings, Explains Worst Clubhouse Performance**
+**Type, Not Ratings, Explains Worst Clubhouse Performance**
 
 * A deeper analysis of the **worst-performing clubhouses (OUT010 and OUT019)** reveals that both belong to the Grocery type and underperform compared to Supermarket clubhouses. 
 * While **OUT01**9 does not cross the platform’s average order benchmark of 533, it demonstrates stronger operational efficiency — generating **528 orders from a single store** versus OUT010’s 555 orders spread across three stores.
-
-* Performance also varies by tier. Grocery types perform relatively better in Tier 1 compared to Tier 3. Tier 1 consumers prioritize freshness, organic sourcing, and trusted quality over price sensitivity, creating a stronger fit for curated grocery types. In contrast, Tier 3 markets are more price-driven, limiting the competitive advantage of premium grocery positioning.
 
 <img src="https://i.postimg.cc/GhDphWbS/6.png" alt="drilldown underperforming Clubhouses ">
 
