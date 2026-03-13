@@ -207,10 +207,12 @@ This section outlines the key business logic and assumptions adopted during the 
 
 ## Tools Used
 
-**- Microsoft Excel –** Structured data analysis and simplifying the visualization  
-**- Tableau –** Data visualization and dashboard creation  
-**- Google Slides –** Executive stakeholder presentation  
-**- Google Gemini & ChatGPT –** Business logic exploration and documentation structuring  
+| Tool | Purpose |
+|------|---------|
+| **Microsoft Excel** | Data cleaning, structured analysis, and exploratory data analysis (EDA) |
+| **Tableau** | Interactive data visualization and dashboard-based analytical insights |
+| **Google Slides** | Communicating data insights and analytical findings to stakeholders |
+| **Google Gemini & ChatGPT** | Assisting with analytical thinking, business logic exploration, and documentation of data insights | 
 
 ---
 
